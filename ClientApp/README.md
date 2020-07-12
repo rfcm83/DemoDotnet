@@ -1,0 +1,1 @@
+Esto es un ejemplo de cómo trabaja Codespaces en navegador y en Visual Studio Code de forma nativa, y sincronizando los cambios en un lado y en otro según se van produciendo.
