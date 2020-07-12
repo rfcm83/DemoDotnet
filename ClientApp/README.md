@@ -1,1 +1,1 @@
-Esto es un ejemplo de cómo trabaja Codespaces en navegador y en Visual Studio Code de forma nativa, y sincronizando los cambios en un lado y en otro según se van produciendo.
+Esto es un ejemplo de cómo Visual Studio Codespace trabaja y sincroniza los cambios casi en tiempo real sin necesidad de tener que realizar un commit puedes estar trabajando en un cliente u otro indistintamente.
